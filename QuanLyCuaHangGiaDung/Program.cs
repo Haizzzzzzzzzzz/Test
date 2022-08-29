@@ -18,6 +18,8 @@ namespace QuanLyCuaHangGiaDung
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new DangNhap());
             //Application.Run(new View.HeThong());
+            // hai dep trai
+            
         }
     }
 }
